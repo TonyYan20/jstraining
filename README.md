@@ -6,10 +6,9 @@
 
 本培训不是零基础的，要求学员具备互联网开发的基本知识。
 
-- HTML [https://www.imooc.com/course/list?c=html]（https://www.imooc.com/course/list?c=html）
-
+- HTML [https://www.imooc.com/course/list?c=html](https://www.imooc.com/course/list?c=html)
 - JavaScript
-- CSS
+- CSS [https://www.imooc.com/course/list?c=css3](https://www.imooc.com/course/list?c=css3)
 - 命令行
 
 以上技术，只要懂得基本语法和如何使用即可。
